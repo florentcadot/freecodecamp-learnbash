@@ -193,3 +193,5 @@ touch client/assets/fonts/lato-light.ttf
 find
 rmdir fonts/
 rm --help
+rm fonts/
+rm -r fonts/
