@@ -57,3 +57,4 @@ cd /
 __vsc_prompt_cmd_original
 cd /workspace/project/freeCodeCamp/node_modules/has/src/
 ls --color=auto
+more index.js
