@@ -68,3 +68,4 @@ cd freeCodeCamp/node_modules/
 cd ../..
 ls --color=auto
 clear
+mkdir website
