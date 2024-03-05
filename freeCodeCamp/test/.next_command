@@ -26,3 +26,5 @@ cd freecodecamp
 __vsc_prompt_cmd_original
 echo hello terminal
 pwd
+__vsc_prompt_cmd_original
+ls --color=auto
