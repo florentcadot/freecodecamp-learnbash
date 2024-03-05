@@ -153,3 +153,5 @@ cd ..
 cd assets/images/
 pwd
 cd ../../..
+ls --color=auto
+cd images/
