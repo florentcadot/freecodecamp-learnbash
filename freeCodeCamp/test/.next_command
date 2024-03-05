@@ -195,3 +195,4 @@ rmdir fonts/
 rm --help
 rm fonts/
 rm -r fonts/
+ls --color=auto
