@@ -78,3 +78,5 @@ touch style.css
 mv style.css styles.css
 ls --color=auto
 touch index.js
+__vsc_prompt_cmd_original
+touch .gitignore
