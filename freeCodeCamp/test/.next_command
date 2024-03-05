@@ -61,3 +61,8 @@ more index.js
 cd ..
 ls --color=auto
 cd ..
+cd ..
+ls --color=auto
+cd /workspace/project/
+cd freeCodeCamp/node_modules/
+cd ../..
