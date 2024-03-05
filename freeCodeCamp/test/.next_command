@@ -66,3 +66,4 @@ ls --color=auto
 cd /workspace/project/
 cd freeCodeCamp/node_modules/
 cd ../..
+ls --color=auto
